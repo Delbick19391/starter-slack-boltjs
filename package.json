@@ -12,6 +12,7 @@
   "author": "Kam Lasater <kam.lasater@cyclic.sh>",
   "license": "ISC",
   "dependencies": {
+    "mineflayer": "4.4.0",
     "@slack/bolt": "^3.10.0",
     "env-cmd": "^10.1.0"
   }
